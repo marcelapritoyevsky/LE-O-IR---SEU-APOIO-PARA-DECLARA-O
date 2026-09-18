@@ -1,7 +1,7 @@
 # 🦁 LEÃO IR — Seu apoio para declaração
 
 <!-- IMAGEM PRINCIPAL DO PROJETO
-     ![Capa do projeto LEÃO IR](capaprojeto01.png)
+     ![Capa do projeto LEÃO IR](capaprojeto01.jpg)
      
 -->
 
