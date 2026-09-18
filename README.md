@@ -1,11 +1,11 @@
 # 🦁 LEÃO IR — Seu apoio para declaração
 
 <!-- IMAGEM PRINCIPAL DO PROJETO
-     LE-O-IR---SEU-APOIO-PARA-DECLARA-O/capaprojeto01.png
+     ![Prévia do projeto LEÃO IR](capaprojeto01.png)
      
 -->
 
-LE-O-IR---SEU-APOIO-PARA-DECLARA-O/PROJETO02.jpg
+![Prévia do projeto LEÃO IR](PROJETO02.jpg)
 
 ## 📌 Sobre o projeto
 
