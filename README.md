@@ -60,7 +60,7 @@ Cadastro de informações pessoais, como:
 
 ## 🛠️ Tecnologias utilizadas
 
-- Microsoft Excel 2007;
+- Microsoft Excel;
 - fórmulas e validação de dados;
 - formatação de células;
 - navegação entre abas;
