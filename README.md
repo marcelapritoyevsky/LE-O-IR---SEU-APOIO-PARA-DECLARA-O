@@ -14,11 +14,11 @@ A proposta é oferecer uma interface simples, visual e prática para reunir dado
 
 Facilitar a organização das informações da declaração, permitindo que o usuário:
 
-- registre seus dados pessoais;
-- organize informes de rendimentos;
-- registre receitas e deduções;
-- acompanhe uma estimativa de imposto a pagar ou restituição;
-- mantenha os documentos relacionados reunidos no mesmo arquivo.
+- Registre seus dados pessoais;
+- Organize informes de rendimentos;
+- Registre receitas e deduções;
+- Acompanhe uma estimativa de imposto a pagar ou restituição;
+- Mantenha os documentos relacionados reunidos no mesmo arquivo.
 
 ## ✨ Funcionalidades
 
